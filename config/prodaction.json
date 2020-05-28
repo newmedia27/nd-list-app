@@ -1,4 +1,5 @@
 {
+  "port": 8080,
   "jwtSecretKey": "rn-list-app",
   "mongoUri": "mongodb+srv://jart:57312043@cluster0-e8snd.azure.mongodb.net/app?retryWrites=true&w=majority"
 }
